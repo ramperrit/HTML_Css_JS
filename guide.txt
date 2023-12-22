@@ -1,0 +1,7 @@
+* Remote repositoy : 깃허브서버에 위치한 저장소
+* Local repositoy : 내 컴뷰터에 R과 연동된 저장소
+
+<서순 중요>
+1. pull : R 내용을 L에 반영 (변경사항 불러와 덮어쓰기)
+2. commit : 내 변경사항을 L에서 미리 반영
+3. push : L버전을 R에 반영
